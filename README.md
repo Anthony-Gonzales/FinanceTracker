@@ -7,7 +7,7 @@ The purpose of this application is to organize and categorize different transact
 <h2>About the Project</h2>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/main_page.png?raw=true" alt="Application Main Page" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/main_page.png?raw=true" alt="Application Main Page" style="max-width: 100%; height: auto;">
 </p>
 
 <p>
@@ -56,7 +56,7 @@ The purpose of this application is to organize and categorize different transact
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/day_page.png?raw=true" alt="Daily Total Chart" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/day_page.png?raw=true" alt="Daily Total Chart" style="max-width: 100%; height: auto;">
 </p>
 
 <h3>Transaction List</h3>
@@ -65,22 +65,22 @@ The purpose of this application is to organize and categorize different transact
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/list_page.png?raw=true" alt="Transactions List" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/list_page.png?raw=true" alt="Transactions List" style="max-width: 100%; height: auto;">
 </p>
 
 <h3>Category Seperation</h3>
 <p> The user will be able to see the categories of their expenditures. The user is given two options to view this information: they will be able to see this representation in a pie chart, or be able to see their transactions in an organized file-like list seperated by month and category.</p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/pie_page.png?raw=true" alt="Transaction Pie Chart" style="width: 50%; height: auto;">
-  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/category_list_page.png?raw=true" alt="Category List" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/pie_page.png?raw=true" alt="Transaction Pie Chart" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/category_list_page.png?raw=true" alt="Category List" style="max-width: 100%; height: auto;">
 </p>
 
 <h3>Length of Time</h3>
 <p>If the csv has a greater date range, the user can select ranges from 1 month, 3 months, 6 months, or a year of data.</p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/date_range.png?raw=true" alt="Date Range Change" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/date_range.png?raw=true" alt="Date Range Change" style="max-width: 100%; height: auto;">
 </p>
 
 <p>
@@ -88,8 +88,8 @@ The purpose of this application is to organize and categorize different transact
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/three_day.png?raw=true" alt="Three Month Daily Total" style="width: 50%; height: auto;">
-  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/three_category.png?raw=true" alt="Three Month Category List" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/three_day.png?raw=true" alt="Three Month Daily Total" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/FinanceTracker/blob/main/images/three_category.png?raw=true" alt="Three Month Category List" style="max-width: 100%; height: auto;">
 </p>
 
 <h2>Roadmap</h2>
